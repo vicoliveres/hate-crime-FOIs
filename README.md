@@ -42,4 +42,4 @@ In the different folders above you'll find the answers and data I was provided w
 
 Although FOI requests' answers are public and this ones will probably be published soon, I would appreciate if you would cite my work of filling the requests and putting the information together. 
 
-![Data visualisation: Online Hate Crime in England]("https://github.com/vicoliveres/hate-crime-FOIs/blob/master/Tableau - Online Hate Crime in England.png")
+![Data visualisation: Online Hate Crime in England](https://github.com/vicoliveres/hate-crime-FOIs/blob/master/Tableau%20-%20Online%20Hate%20Crime%20in%20England.png)
