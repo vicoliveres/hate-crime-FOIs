@@ -1,10 +1,10 @@
 # hate-crime-FOIs
 
-## Data about Hate Crime in England and Wales released by police forces via FOI requests.
+<b>Data about Hate Crime in England and Wales released by police forces via FOI requests.</b>
 
 On February 2018 I submited the first Freedom of Information to a UK police force asking for data related to hate crime. Four months after, I got relevant information from 26 of the 39 England police forces. 
 
-## The original FOI request:
+## The original FOI request
 
 Dear X Police or Constabulary,
 
