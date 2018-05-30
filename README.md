@@ -42,5 +42,6 @@ In the different folders above you'll find the answers and data I was provided w
 
 Although FOI requests' answers are public and this ones will probably be published soon, I would appreciate if you would cite my work of filling the requests and putting the information together. 
 
-Visit the interactive version of the data visualization below that I made with Tableau <a href="https://public.tableau.com/views/OnlinehatecrimeinEngland/Dashboard1?:embed=y&:display_count=yes&publish=yes">here</a>. 
+Visit the interactive version of the data visualization below that I made with Tableau <a href="https://public.tableau.com/views/OnlinehatecrimeinEngland/OnlinehatecrimeinEngland?:embed=y&:display_count=yes">here</a>. 
+
 ![Data visualisation: Online Hate Crime in England](https://github.com/vicoliveres/hate-crime-FOIs/blob/master/Tableau%20-%20Online%20Hate%20Crime%20in%20England.png)
